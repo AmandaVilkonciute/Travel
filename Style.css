@@ -1,0 +1,279 @@
+body{
+    margin: 0px;
+}
+.pirmas-blokas{
+    background-color: #1f2937;
+    height: 100px;
+}
+.virsus{
+    flex-direction: row;
+    color: #f9faf8;
+}
+.btn1{
+    width: 100px;
+    height: 100px;
+    display: block;
+    text-decoration: none;
+    color: #f9faf8;
+    background-color:none;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 6px;
+}
+.linkai{
+    display: inline-flex;
+    position: absolute;
+    right: 80px;
+    padding-top: 40px;
+}
+.logo{
+    position: absolute;
+    left: 80px;
+    padding-top: 8px;
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+
+.antras-blokas{
+    background-color: #1f2937;
+    height: 400px;
+    width: auto;
+}
+.pavadinimas{
+    font-size: 48px;
+    color: #f9faf8;
+    left: 100px;
+}
+.Travel{
+    font-weight: 800;
+}
+.po-pav{
+    color: #f9faf8;
+    font-size: 18px;
+    right: 80px;
+    vertical-align: text-top;
+}
+img{
+    width: 500px;
+    height: 250px;
+}
+.foto{
+    position: absolute;
+    right: 0px;
+    width: 40%;
+    top: 150px;
+}
+.pavadinimas{
+    position: absolute;
+    width: 60%;
+    display:table-column;
+    margin-bottom: 0px;
+}
+.btn{
+    width: 100px;
+    height: 30px;
+    display: block;
+    text-decoration: none;
+    color: black;
+    background-color: #3882f6;
+    border: black 1px solid;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 6px;
+    font-size: 18px;
+}
+
+
+
+.trecias-blokas{
+    height: 180px;
+    width: auto;
+    display: grid;
+}
+.pavadinimas2{
+    font-size: 36px;
+    color:#1f2937;
+    text-align: center;
+    font-weight:800;
+}
+.gallery {
+    margin: 20px;
+    width: 180px;
+    float: left;
+}
+  
+.gallery img {
+    width: 99.99%;
+    height: 120px;
+    border-radius: 6px;
+}
+  
+.desc {
+    padding: 15px;
+    text-align: center;
+}
+.viskas{
+    width: 900px;
+    height: 200px;
+    display: block;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: left;
+    padding-top: 6px;
+    font-size: 18px;
+    position: absolute;
+    left: 300px;
+}
+.ketvirtas-blokas{
+    width: auto;
+    height: 300px;
+}
+.penktas-blokas{
+    background-color: #E5E7EB;
+    color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+.citata {
+    text-align: center;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+.autorius{
+    position: absolute;
+    right: 240px;
+    margin-top: 100px;
+    font-size: 26px;
+}
+
+.tarpas{
+    height: 120px;
+}
+.sestas-blokas{
+    width: auto;
+    height: 400px;
+    align-items: center;
+    top: 50px;
+    padding-left: 400px;
+}
+.melyna{
+    width: 800px;
+    height: 140px;
+    display: block;
+    text-decoration: none;
+    background-color: #3882f6;
+    border-radius: 5px;
+    text-align: left;
+    padding-top: 6px;
+    font-size: 18px;
+    display: inline-flex;
+}
+.tekstas{
+    color: #E5E7EB;
+    margin-right: 20px;
+    position: absolute;
+    left: 500px;
+}
+
+.btn3{
+    width: 100px;
+    height: 30px;
+    display: block;
+    text-decoration: none;
+    color: #E5E7EB;
+    background-color: #3882f6;
+    border: #E5E7EB 1px solid;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 6px;
+    font-size: 18px;
+    position: absolute;
+    right: 400px;
+    margin-top: 50px;
+}
+
+
+.inf1{
+    background-color: #E5E7EB;
+    border-radius: 6px;
+    width: auto;
+    display: inline-flex;
+}
+.fo img{
+    height: 200px;
+    width: auto;
+    float: right;
+}
+.in1{
+    width: 60%;
+    font-size: 25px;
+    float: left;
+}
+.pavadinimas3{
+    font-size: 30px;
+    margin-left: 60px;
+    margin-bottom: 15px;
+}
+.fo{
+    width: 40%;
+    float: right;
+    position: absolute;
+    right: 50px;
+}
+
+.tarpas2{
+    height: 20px;
+}
+.viskas1{
+    width: 900px;
+    height: 200px;
+    display: block;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: left;
+    padding-top: 6px;
+    font-size: 18px;
+    position: absolute;
+    left: 300px;
+}
+
+.gallery1 {
+    margin: 20px;
+    width: 180px;
+    float: left;
+    border: 1px solid #ccc;
+}
+  
+.gallery1 img {
+    width: 99.99%;
+    height: 120px;
+}
+
+.Sign-up{
+    text-align: center;
+}
+.blk{
+    background-color: #ccc;
+    border-radius: 6px;
+    height: auto;
+    width: 250px;
+    font-size: 30px;
+    text-align: center;
+    position: absolute;
+    left: 350px;
+    margin-top: 100px;
+}
+
+.foto1{
+  position: absolute;
+  right: 0px;
+  width: 40%;
+  margin-top: 80px;
+}
+.prisijungti{
+    border: 1px solid #ccc;
+}
